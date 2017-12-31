@@ -1,0 +1,115 @@
+
+body
+{
+	background-image:url("Pictures/bg1.jpg");
+	font-family: Arial;
+	padding-right :10%;
+	align :center;
+	padding-left :10%;
+
+}
+
+.header table
+{
+	width :100%;
+	color : #F7F1EF;
+}
+.header table img
+{
+	float:left;
+	align:center-left;
+	width:150px;
+	height:153px;
+	border : 5px; 
+}
+
+h1
+{
+	color : #F7F1EF;
+	align :center;
+}
+
+
+
+
+p
+{
+	color :black;
+}
+
+p.patch
+{
+	background-color :black;
+	width :1050px;
+	height :50px;
+	color :white;
+}
+
+h4
+{
+	padding-right :40%;
+}
+
+
+
+.drop table
+{
+	border : 1px solid;
+	background-image:url("Pictures/bg1.jpg");
+	width:100%;
+	align:center;
+}
+
+.drop table td
+{
+	width:20%;
+
+	padding-top:10px;
+	padding-bottom: 10px;
+	border-left-color: 2px white;
+	text-align:center;
+
+
+}
+
+.drop table td a
+{
+	
+	display:block;
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.drop table td:hover
+{
+	background-color: blue;
+	text-decoration-color: white;
+}
+
+.drop table td:hover a
+{
+	color:white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.departments ul li a
+{
+	color :blue;
+	text-decoration: none;
+}
+
+.departments ul li a:hover
+{
+	color :red;
+	font-style :italic;
+	text-decoration: none;
+}
+
+
+.departments ul li 
+{
+	padding-top: 13px;
+}
+
